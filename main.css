@@ -50,14 +50,13 @@ p {
 li {
     margin-left: 25px;
 }
-.head{
-    background-color: #ffffff;
-    background: lightyellow url(header-background.jpg) top left repeat;
+header{
+    background: lightyellow url(header-background.jpg) repeat top left;
     background-size: 100%;
 
 }
 /*resize photo*/
-.head img{
+img{
     width: 30%;
     float: center;
     padding: 5px;
