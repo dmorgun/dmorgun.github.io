@@ -61,6 +61,13 @@ img{
     float: center;
     padding: 5px;
 }
+.dmorgun{
+    background-position: 0 0;
+    background-image: url(sprites.png);
+    width: 295px;
+    height: 327px;
+
+}
 section {
     background-color: #dcfdff;
     padding: 10px 15px 15px 15px;
@@ -69,4 +76,12 @@ section {
 .description {
     font-style: italic;
     padding: 0 0 5px 10px;
+}
+.marker {
+    margin-left: auto;
+    margin-right: auto;
+    background-position: -296px 0;
+    background-image: url(sprites.png);
+    width: 256px;
+    height: 256px;
 }
